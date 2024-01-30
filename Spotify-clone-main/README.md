@@ -1,6 +1,4 @@
 # Spotify-clone
-Learning HTML and CSS
+Learning HTML and CSS basics.
+Static demo of a Spotify website clone using HTML and CSS.
 
-This activity was a way to practice more on HTML and CSS.
-This code will basically make a replica of Spotify Website.
-/////
